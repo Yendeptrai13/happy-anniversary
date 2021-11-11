@@ -8,23 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'anh iu Vu Hoang Anh:3',
+    introDesc: `chuc mung`,
+    btnIntro: 'hihi:3',
+    title: 'Happy anniversary 3 months',
+    desc: 'Mung ki niem 3 thang yeu nhau cua chung ta, anh co muon noi dieu gi khong? ',
+    btnYes: 'anh yeu em:3',
+    btnNo: 'khong co gi dau bbi',
+    question:'Biet la hoi som nhung ma chuc anh mot doi binh an vui ve',
+    btnReply: 'gui cho be:3',
+    reply: 'hi vong chung ta se mai co duoc nhau <3',
+    mess: 'duoc thoi bbi',
+    messDesc: 'chuc anh yeu mot ngay anni vui ve ngot ngao va co em',
+    btnAccept: 'anh yeu be <3',
+    messLink: 'http://www.facebook.com/doanthiyen.1308'
 }
 ```
 
